@@ -31,8 +31,8 @@ function Home() {
     slidesToShow: 1,
     slidesToScroll: 1,
     arrows: false,
-    // autoplay: true,
-    // autoplaySpeed: 3000,
+    autoplay: true,
+    autoplaySpeed: 3000,
     pauseOnHover: true,
     swipeToSlide: true,
   };
